@@ -1,5 +1,8 @@
 /.envrc
 
+# backend
+/backend/target/
+
 # Terraform
 /infrastructure/provision/.terraform/
 /infrastructure/provision/.terraform.lock.hcl
@@ -9,3 +12,4 @@
 # IDE idea
 /.idea/
 /frontend/.idea/
+/backend/.idea/
