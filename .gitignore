@@ -1,3 +1,11 @@
 /.envrc
 
+# Terraform
 /infrastructure/provision/.terraform/
+/infrastructure/provision/.terraform.lock.hcl
+/infrastructure/provision/terraform.tfstate
+/infrastructure/provision/terraform.tfstate.backup
+
+# IDE idea
+/.idea/
+/frontend/.idea/
